@@ -1,4 +1,4 @@
-# 📚 Library Management System (Frontend Version)
+# 📚 Library Management System
 
 ## 🔹 Project Overview
 
@@ -208,3 +208,5 @@ The following items can be implemented in future upgrades:
 ## 👨‍💻 Author
 
 Developed as part of assessment process from Acxiom Consulting.
+
+Built By Farhan Abid
