@@ -2,7 +2,7 @@
 
 ## 🔹 Project Overview
 
-This project is a **Library Management System (Frontend Only)** developed according to the provided requirement document.
+This project is a **Library Management System (Frontend Only)** developed according to the provided requirement document from Acxiom Consulting.
 
 The system simulates:
 
